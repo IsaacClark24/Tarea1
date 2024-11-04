@@ -2,23 +2,23 @@
 
 ### **Descripción:**
 
-Esta tarea consistio en darnos una introduccion a Git, Git  es un Sistema de Control de Versiones Centralizados (CVCS), para que nosotros podamos crear y subir repositorios de proyectos y familiarizarnos con este tipo de herramientas que nos facilitan el crear software.
+Esta tarea consistió en darnos una introducción a Git, Git  es un Sistema de Control de Versiones Centralizados (CVCS), para que nosotros podamos crear y subir repositorios de proyectos y familiarizarnos con este tipo de herramientas que nos facilitan el crear software.
 
-Cree mi mi programa **"HolaMundo.java" y lo que hacia era impriir *"Hola mundo"* y depues lo modifique para que imprimiera *"Hola Git"*, estos cambios estan comentados y declarados en los commits de mi repositorio *"Tarea 1"*.
+Cree mi programa **"HolaMundo.java"** y lo que hacía era imprir *"Hola mundo"* y después lo modifiqué para que imprimiera *"Hola Git"*, estos cambios están comentados y declarados en los commits de mi repositorio *"Tarea 1"*.
 
 ### **Instrucciones de uso:**
 
 Para ejecutar el código debes de:
 
- *i)* descargar ó compiarel código(si lo copiaste nombrar el archivo fuente com *"HolaMundo.java"*).
+ *i)* descargar ó copiar el código (si lo copiaste nombrar el archivo fuente como *"HolaMundo.java"*).
  
- *ii)* importante tener l copilador JDK para que pueda ejecutarse.
+ *ii)* importante tener el copilador JDK para que pueda ejecutarse.
 
- *iii)* ir a la terminal del sistema y abrir la carpeta donde se este guardando el archivo con el código fuente ("*HolaMundo.java"*)
+ *iii)* ir a la terminal del sistema y abrir la carpeta donde esté guardando el archivo con el código fuente ("*HolaMundo.java"*).
 
- *iv)* escribir **"JAVAC HolaMundo.java"** para que se compile el progrma.
+ *iv)* escribir **"JAVAC HolaMundo.java"** para que compile el progrma.
 
- *v)* para ejecutar escribe **"Java HolaMundo"**.
+ *v)* para ejecutar el programa escribe: **"Java HolaMundo"**.
 
  ### **Comandos utilizados:**
 
